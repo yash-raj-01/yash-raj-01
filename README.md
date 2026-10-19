@@ -31,10 +31,9 @@
 </td>
 <td valign="top">
 <img src="assets/h-projects.svg" width="285" alt="Featured Projects"><br>
-<a href="https://github.com/yash-raj-01/dailydevs"><img src="assets/project-dailydevs.svg" width="285" alt="dailydevs"></a><br>
-<a href="https://github.com/yash-raj-01/SnW_project"><img src="assets/project-snw.svg" width="285" alt="SnW_project"></a><br>
+
 <a href="https://github.com/yash-raj-01/Open-Library-Book-Finder"><img src="assets/project-olb.svg" width="285" alt="Open-Library-Book-Finder"></a><br>
-<a href="https://github.com/yash-raj-01/song"><img src="assets/project-song.svg" width="285" alt="song"></a><br>
+<a href="https://github.com/yash-raj-01/music"><img src="assets/project-song.svg" width="285" alt="music"></a><br>
 <a href="https://github.com/hartej46/CultStory"><img src="assets/project-cultstory.svg" width="285" alt="hartej46/CultStory"></a><br>
 <a href="https://github.com/yash-raj-01?tab=repositories"><img src="assets/project-more.svg" width="285" alt="Browse all repositories"></a>
 <!--
@@ -63,10 +62,14 @@
 <tr>
 <td valign="top">
 <img src="assets/h-repos.svg" width="250" alt="Top Repositories"><br>
-<a href="https://github.com/yash-raj-01/dailydevs"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yash-raj-01&repo=dailydevs&bg_color=EFEADB&title_color=1E4B44&text_color=1F2B28&icon_color=1E4B44&border_color=A9A48F&border_radius=0" width="250" alt="dailydevs"></a><br>
-<a href="https://github.com/yash-raj-01/SnW_project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yash-raj-01&repo=SnW_project&bg_color=EFEADB&title_color=1E4B44&text_color=1F2B28&icon_color=1E4B44&border_color=A9A48F&border_radius=0" width="250" alt="SnW_project"></a><br>
-<a href="https://github.com/yash-raj-01/CLI_Neumann"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yash-raj-01&repo=CLI_Neumann&bg_color=EFEADB&title_color=1E4B44&text_color=1F2B28&icon_color=1E4B44&border_color=A9A48F&border_radius=0" width="250" alt="CLI_Neumann"></a><br>
-<a href="https://github.com/yash-raj-01/Neumann_Repo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yash-raj-01&repo=Neumann_Repo&bg_color=EFEADB&title_color=1E4B44&text_color=1F2B28&icon_color=1E4B44&border_color=A9A48F&border_radius=0" width="250" alt="Neumann_Repo"></a><br>
+<a href="https://rps-umber-eight.vercel.app/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yash-raj-01&repo=rps&bg_color=EFEADB&title_color=1E4B44&text_color=1F2B28&icon_color=1E4B44&border_color=A9A48F&border_radius=0" width="250" alt="stone-paper-scissor"></a><br>
+<a href="https://todo-list-v1-pink.vercel.app/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yash-raj-01&repo=TodoList_v1&bg_color=EFEADB&title_color=1E4B44&text_color=1F2B28&icon_color=1E4B44&border_color=A9A48F&border_radius=0" width="250" alt="odoList_v1"></a><br>
+
+
+<a href="https://calculator-v1-ten.vercel.app/">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yash-raj-01&repo=calculator_v1&bg_color=EFEADB&title_color=1E4B44&text_color=1F2B28&icon_color=1E4B44&border_color=A9A48F&border_radius=0" width="250" alt="calculator_v1">
+</a>
+<br>
 </td>
 <td valign="top">
 <img src="assets/h-tools.svg" width="190" alt="Tools and Technologies"><br>
@@ -85,4 +88,5 @@
 <img src="assets/taskbar.svg" width="700" alt="Building scalable web apps. Solving real-world problems.">
 
 </div>
+# yash-raj-01
 # yash-raj-01
