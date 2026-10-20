@@ -43,7 +43,7 @@
 </td>
 <td valign="top">
 <img src="assets/h-stats.svg" width="240" alt="GitHub Stats"><br>
-<img src="https://komarev.com/ghpvc/?username=yash-raj-01&label=Profile+Views&color=1E4B44&style=flat-square" alt="Profile views"> <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fyash-raj-01&query=%24.public_repos&label=Public%20Repos&style=flat-square&labelColor=EFEADB&color=1E4B44" alt="Public repos"><br>
+<img src="https://hits.sh/github.com/yash-raj-01.svg?style=flat-square&label=Profile%20Views&color=1E4B44&labelColor=EFEADB" alt="Profile views"> <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fyash-raj-01&query=%24.public_repos&label=Public%20Repos&style=flat-square&labelColor=EFEADB&color=1E4B44" alt="Public repos"><br>
 <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fyash-raj-01&query=%24.followers&label=Followers&style=flat-square&labelColor=EFEADB&color=1E4B44" alt="Followers"> <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fyash-raj-01&query=%24.following&label=Following&style=flat-square&labelColor=EFEADB&color=1E4B44" alt="Following"><br>
 <img src="https://github-readme-stats.vercel.app/api?username=yash-raj-01&show_icons=true&hide_title=true&hide_rank=true&include_all_commits=true&card_width=300&bg_color=EFEADB&title_color=1E4B44&text_color=1F2B28&icon_color=1E4B44&border_color=A9A48F&border_radius=0" width="240" alt="GitHub stats"><br>
 <img src="assets/h-langs.svg" width="240" alt="Top Languages"><br>
